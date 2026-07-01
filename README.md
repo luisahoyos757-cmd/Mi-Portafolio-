@@ -1,6 +1,6 @@
 # 🌐 Portafolio Personal - Luisa María Hoyos
 
-![Vista previa](./src/assets/app-clima.png)
+![Vista previa](./img/portada.png)
 
 ## 📖 Descripción
 
